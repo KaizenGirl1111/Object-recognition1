@@ -1,0 +1,15 @@
+- Build a simple facial recognition model
+- Given an image, tell us whether it contains a face or not
+- Obtain and format data
+    - Resizing and reshaping
+    - Assign labels
+    - Shuffle data and separate into training and testing
+- Build the model in pycharm
+    - Use keras to build a conv neural network
+    - Train and test the model
+    - Save the model to pb file
+- Build android app
+    - Import the model and set up project
+    - Build UI
+    - Format image data
+    - Process data and display results
